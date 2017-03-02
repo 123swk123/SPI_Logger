@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SPI_Logger/SPI_Logger/Debug
+/SPI_Logger/Debug
+/SPI_Logger/.vs/SPI_Logger/v14
