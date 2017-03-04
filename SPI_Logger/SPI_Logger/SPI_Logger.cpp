@@ -89,7 +89,7 @@ DWORD WINAPI thrSPI_Handler(LPVOID lpParameter)
 
   cfgSPI.frequency = 800000;
   cfgSPI.isMaster = 0;
-  cfgSPI.dataWidth = 16;
+  cfgSPI.dataWidth = 8;
 
   rtnStatus = CySetSpiConfig(hSPI, &cfgSPI);
 
